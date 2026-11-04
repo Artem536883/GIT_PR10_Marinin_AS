@@ -1,6 +1,10 @@
 ﻿Console.WriteLine("Практическая работа №10");
-Console.WriteLine("Текущая дата:");
 
+Console.WriteLine("Текущая дата:");
 Console.WriteLine(DateTime.Now.ToString("dd.MM.yyyy"));
+
+Console.WriteLine("Номер группы: IS24B");
+
+Console.WriteLine("ФИО: Маринин Артём Сергеевич");
 
 Console.WriteLine("Программа работает успешно!");
